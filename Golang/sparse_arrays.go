@@ -1,4 +1,4 @@
-package problemsolving
+package main
 
 func matchingStrings(strings []string, queries []string) []int32 {
 	// Write your code here

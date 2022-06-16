@@ -1,4 +1,4 @@
-package problemsolving
+package main
 
 func searchInsert(nums []int, target int) int {
     var res int

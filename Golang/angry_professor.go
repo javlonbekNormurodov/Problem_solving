@@ -1,4 +1,4 @@
-package problemsolving
+package main
 
 func angryProfessor(k int32, a []int32) string {
 	// Write your code here

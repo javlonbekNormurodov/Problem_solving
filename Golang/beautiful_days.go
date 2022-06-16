@@ -1,4 +1,4 @@
-package problemsolving
+package main
 
 import "math"
 
